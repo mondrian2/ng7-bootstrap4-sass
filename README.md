@@ -1,17 +1,5 @@
 # Angular Universal Starter
-
-![Angular Universal](https://angular.io/assets/images/logos/concept-icons/universal.png)
-
-A minimal Angular starter for Universal JavaScript using the [Angular CLI](https://github.com/angular/angular-cli)
-If you're looking for the Angular Universal repo go to [**angular/universal**](https://github.com/angular/universal)  
-
-## Getting Started
-
-This demo is built following the [Angular-CLI Wiki guide](https://github.com/angular/angular-cli/wiki/stories-universal-rendering)
-
-We're utilizing packages from the [Angular Universal @nguniversal](https://github.com/angular/universal) repo, such as [ng-module-map-ngfactory-loader](https://github.com/angular/universal/modules/module-map-ngfactory-loader) to enable Lazy Loading.
-
----
+# Add Sass + Bootstrap
 
 ### Build Time Prerendering Vs. Server Side Rendering(ssr)
 This repo demonstrates the use of 2 different forms of Server Side Rendering.
